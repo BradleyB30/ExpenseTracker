@@ -23,7 +23,3 @@ Expense Tracker is a simple C++ program that allows users to track their expense
 
 4. Once you're done adding expenses, the program will display all the entered expenses.
 
-## Example
-
-Here's an example of using the Expense Tracker program:
-
